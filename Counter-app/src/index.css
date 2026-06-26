@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=BBH+Bogle&display=swap');
+@import "tailwindcss";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "BBH Bogle", sans-serif;
+}
+
+body{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
